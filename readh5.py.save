@@ -1,0 +1,6 @@
+import h5py 
+
+file = h5py.file('mobilenet_finetuned')
+file.shape
+
+
